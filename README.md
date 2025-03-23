@@ -1,10 +1,10 @@
 # Análise de Sentimento com CNN e BERT
 
-Este projeto implementa um modelo de análise de sentimento utilizando uma Rede Neural Convolucional (CNN) e representações de palavras BERT para classificar o sentimento de textos em português.
+Este projeto implementa um modelo de classificação utilizando uma Rede Neural Convolucional (CNN) e representações de palavras BERT para classificar textos em português.
 
 ## Resumo da Utilidade
 
-O objetivo principal deste código é treinar um modelo de aprendizado profundo capaz de analisar e classificar o sentimento de textos. Ele utiliza uma combinação de representações de palavras BERT para capturar o contexto semântico e uma CNN para extrair padrões e características relevantes dos textos. O modelo treinado pode ser aplicado para analisar o sentimento de comentários de clientes, avaliações de produtos ou qualquer outro texto em português, fornecendo insights valiosos sobre as opiniões e emoções expressas nos textos.
+O objetivo principal deste código é treinar um modelo de aprendizado profundo capaz de analisar e classificar a categoria dos textos. Ele utiliza uma combinação de representações de palavras BERT para capturar o contexto semântico e uma CNN para extrair padrões e características relevantes dos textos. O modelo treinado pode ser aplicado para analisar o sentimento de comentários de clientes, avaliações de produtos ou qualquer outro texto em português, fornecendo insights valiosos sobre as opiniões e emoções expressas nos textos.
 
 ## Funcionalidades
 
